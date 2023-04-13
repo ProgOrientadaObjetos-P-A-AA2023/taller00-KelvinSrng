@@ -5,10 +5,8 @@
  */
 package paquete3;
 
-/**
- *
- * @author reroes
- */
+import paquete5.Dato;
+
 public class Valor {
     
     public static int obtenerHabitantes(){
